@@ -1,0 +1,42 @@
+[
+  {
+    "id": "parkcam",
+    "name": "Парккам",
+    "domain": "https://parkcam.ru/",
+    "niche": "Парккам. Штатные камеры заднего вида и автомобильные мониторы ParkCam",
+    "anchors": [
+      {
+        "anchor": "видеорегистратор скрытой установки купить",
+        "url": "https://parkcam.ru/shtatnyj-videoregistrator-parkcam"
+      }
+    ],
+    "noanchors": [],
+    "created_at": "2026-04-22T17:26:20.575139",
+    "brand": "Парккам"
+  },
+  {
+    "id": "unisteam",
+    "name": "Юнистим",
+    "domain": "https://unisteam.com/",
+    "niche": "Производство спецтехники с доставкой от завода-производителя Юнистим",
+    "brand": "Юнистим",
+    "anchors": [
+      {
+        "anchor": "",
+        "url": ""
+      }
+    ],
+    "noanchors": [],
+    "created_at": "2026-04-22T17:28:03.760368"
+  },
+  {
+    "id": "youtalk",
+    "name": "Юток",
+    "domain": "https://youtalk.ru/",
+    "niche": "Подбор и консультация психолога онлайн — сервис по поиску психологической помощи YouTalk",
+    "brand": "Юток",
+    "anchors": [],
+    "noanchors": [],
+    "created_at": "2026-04-22T17:45:17.385411"
+  }
+]

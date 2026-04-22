@@ -1,0 +1,12 @@
+# Секреты и настройки
+.env
+.streamlit/secrets.toml
+
+# Кэш и временные файлы
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
